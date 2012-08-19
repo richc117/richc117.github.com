@@ -61,11 +61,11 @@ hr.soften {
   position: relative;
 }
 .jumbotron h1 {
-  margin-bottom: 0px;
+  margin-bottom: 5px;
   font-size: 70px;
   font-weight: 400;
   letter-spacing: -1px;
-  line-height: 55%;
+  line-height: 1;
 }
 .jumbotron p {
   margin-bottom: 5px;
@@ -96,7 +96,7 @@ hr.soften {
   text-align: center;
 }
 .masthead h1 {
-  margin-bottom: 18px;
+  margin-bottom: 5px;
 }
 .masthead p {
   margin-left: 5%;
