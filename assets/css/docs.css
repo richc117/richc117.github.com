@@ -57,12 +57,12 @@ body {
 	text-align:center;
 	font-weight:100;
 	letter-spacing:-.5px;
-	padding-bottom:4px;	
 	margin-bottom:5px;
 }
 .intro-1 {
+	margin-left:10px;
 	font-size:18px;
-	line-height:36px;
+	line-height:30px;
 
 }
 .intro-2 {
@@ -84,6 +84,12 @@ body {
 	margin-right:auto; 
 	margin-left:auto; 
 	margin-bottom:10px;
+}
+.center-thumbnail {
+	margin-right:auto; 
+	margin-left:auto; 
+	margin-bottom:10px;
+	max-height: 180px;
 }
 
 /* Random Stuff
